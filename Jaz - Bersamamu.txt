@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 Bersamamu, ku akan dicintai dengan tulus
 Tanpa ragu, ku akan memberikan cintaku
 Bersamaku, kamu tak akan sendu
@@ -12,3 +13,9 @@ Bertualang dengan cerita kita
 Bersamamu, kita akan berbagi semua
 Segala baik dan buruk diriku
 >>>>>>> origin/Wildan
+=======
+Bersamamu, ku akan dicintai dengan tulus
+Tanpa ragu, ku akan memberikan cintaku
+Bersamaku, kamu tak akan sendu
+Yakinkan kamu aku yang terbaik untukmu
+>>>>>>> origin/Zhafran
