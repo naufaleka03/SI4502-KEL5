@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 Bersamamu, kita akan taklukan dunia
 Arungi samudra penuh rintangan
 Bersamamu, kita akan jalani semua
@@ -7,3 +8,9 @@ Jangan takut untuk melangkah bersamaku (bersama)
 Buka hatimu
 Segala rasa yang kuberikan untukmu
 >>>>>>> origin/Daffa
+=======
+Bersamamu, ku akan dicintai dengan tulus
+Tanpa ragu, ku akan memberikan cintaku
+Bersamaku, kamu tak akan sendu
+Yakinkan kamu aku yang terbaik untukmu
+>>>>>>> origin/Zhafran
