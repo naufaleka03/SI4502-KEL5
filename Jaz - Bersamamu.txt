@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 Bersamamu, ku akan dicintai dengan tulus
 Tanpa ragu, ku akan memberikan cintaku
 Bersamaku, kamu tak akan sendu
@@ -19,3 +20,7 @@ Tanpa ragu, ku akan memberikan cintaku
 Bersamaku, kamu tak akan sendu
 Yakinkan kamu aku yang terbaik untukmu
 >>>>>>> origin/Zhafran
+=======
+Buka hatimu
+Segala rasa yang kuberikan untukmu
+>>>>>>> origin/Daffa
